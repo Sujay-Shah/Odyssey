@@ -1,0 +1,16 @@
+{	
+		"color": 
+		{
+       	"x": 1.0,
+       	"y": 1.0,
+       	"z": 1.0
+   		 },
+
+	"albedo": "Paladin_diffuse.png",
+	"normal": "Paladin_normal.png",
+	"shader": "Assets/Shaders/AnimatedModel",
+	"isReceiveLight": true,
+	"isInstanced": false,
+	"InstanceCount": 0
+}
+  

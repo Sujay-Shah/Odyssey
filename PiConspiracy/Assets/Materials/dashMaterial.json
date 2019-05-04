@@ -1,0 +1,10 @@
+{
+  "color": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "albedo": "dash.png",
+  "shader": "Assets/Shaders/ProjectionTexture",
+  "isReceiveLight": true
+}

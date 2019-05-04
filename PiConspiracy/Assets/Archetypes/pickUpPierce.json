@@ -1,0 +1,72 @@
+{
+    "type": "PickUp",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 30.0,
+        "y": 30.0,
+        "z": 30.0
+      }
+    },
+	{
+      "component": "RigidBodyComponent",
+      "Box": null,
+    "activeGravity": false,
+	"Dynamic": null,
+    "CollisionLayer": 1,
+      "mass": 0.00000001,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "colliderSize": {
+		    "x": 150.0,
+        "y": 170.0,
+        "z": 100.0
+	  },
+      "linearDamping": 0.25,
+      "angularDamping": 0.8
+    },
+	{
+      "component": "MeshComponent",
+      "type": 4,
+      "modelName": "blurrStyleBoostModel.fbx",
+      "materialName": "PickUpSlowMat.json"
+    },
+
+    {
+      "component": "Rotations",
+      "angle": 0.01,
+      "axis": 2
+    },
+
+    {
+      "component": "Pickups",
+      "pierce" :  null
+    }
+  ]
+  }

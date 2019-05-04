@@ -1,0 +1,32 @@
+{
+    "GAMEOBJECTS": [
+      {
+        "prefab": "mainMenu"
+      },
+      {
+        "prefab": "controlsMenu"
+      },
+      {
+        "prefab": "CreditsMenu"
+      },
+      {
+        "prefab": "DirectionalLight",
+        "position" : 
+        {
+            "x" :0.0,
+            "y" :0.0,
+            "z" :0.0
+        }
+      },
+      {
+      "prefab": "SphereBallMenu",
+        "position" :
+        {
+          "x" : -50.0,
+            "y" :50.0,
+            "z" :300.0 
+        }
+      }
+    ]
+}
+  

@@ -1,0 +1,35 @@
+{
+    "type": "None",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 200.0,
+        "y": 200.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 960.0,
+        "y": 160.0,
+        "z": 0.0
+      }
+    },
+    {
+      "component": "MeshComponent",
+      "type": 1,
+	  "materialName" : "SlowMoTextureMaterial_Left.json",
+      "MeshColor": {
+        "x": 0.5,
+        "y": 1.0,
+        "z": 0.0
+      }
+    }
+  ]
+  }

@@ -1,0 +1,81 @@
+{
+    "type": "Menu",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+	{
+        "component": "Canvas",
+        "canvasType": 2,
+        "canvasName": "death",
+        "UIElements":[
+            {
+              "prefab": "restartButton",
+              "position":
+              {
+                  "x":870,
+                  "y":330,
+                  "z":0
+              }
+            },
+			
+			{
+              "prefab": "Btn_back2mainFrmGame",
+              "position":
+              {
+                  "x":870,
+                  "y":430,
+                  "z":0
+              }
+            },
+			
+            {
+              "prefab": "quitButton",
+              "position":
+              {
+                  "x":870,
+                  "y":530,
+                  "z":0
+              }
+          },
+		  {
+			"prefab" :"DeathHighScore"
+		  }
+        ]
+        
+    },
+	{
+      "component": "TextComponent",
+      "StartText": " Current Score : ",
+      "FontSize" : 5,
+      "Scale" : 1.0,
+      "Color" :
+      {
+        "x":1.0,
+        "y":1.0,
+        "z":1.0
+      },
+      "position" :
+      {
+        "x":1100.0,
+        "y":670.0
+      }
+    }
+  ]
+  }

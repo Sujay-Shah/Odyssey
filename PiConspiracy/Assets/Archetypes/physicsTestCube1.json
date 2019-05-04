@@ -1,0 +1,69 @@
+{
+  "type": "Breakable",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 50.0,
+        "y": 100.0,
+        "z": 50.0
+      }
+    },
+
+    {
+      "component":"MeshComponent",
+	  "type": 2,
+	  "materialName": "TallBuilding_Zo_Mat.json"
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+	  "Dynamic": null,
+	  "CollisionLayer": 1,
+      "activeGravity": false,
+      "mass": 10.0,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": -1000.0,
+        "z": 0.0
+      },
+      "linearDamping": 0.95,
+      "angularDamping": 0.8
+
+    },
+    {
+      "component": "FractureComponent",
+      "Box": null,
+      "CanBeBroken": null
+    },
+	{
+      "component": "RotateComponent",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  ]
+}

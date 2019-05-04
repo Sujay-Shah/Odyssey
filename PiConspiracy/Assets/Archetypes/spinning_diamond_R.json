@@ -1,0 +1,61 @@
+{
+    "type": "Obstacle",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 45.0
+      },
+      "scale": {
+        "x": 300.0,
+        "y": 300.0,
+        "z": 5.0
+      }
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+      "activeGravity": false,
+	"Dynamic": null,
+	    "CollisionLayer": 1,
+      "mass": 10000.0,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "linearDamping": 0.25,
+      "angularDamping": 0.8
+    },
+    {
+      "component": "RotateComponent",
+      "x": 0.0,
+      "y": 0.005,
+      "z": 0.0
+    },
+    {
+			"component":"MeshComponent",
+			"type": 2,
+			"materialName": "TallBuilding_Zo_Mat.json"
+	}
+  ]
+}

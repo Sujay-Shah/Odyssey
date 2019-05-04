@@ -1,0 +1,31 @@
+{
+    "type": "Ground",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 6000.0,
+        "y": 70000.0,
+        "z": 1.0
+      }
+    },
+
+	{
+			"component":"MeshComponent",
+			"type": 1,
+			"materialName": "NoiseMaterial.json"
+	}
+  ]
+  }

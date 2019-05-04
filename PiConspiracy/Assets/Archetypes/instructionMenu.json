@@ -1,0 +1,35 @@
+{
+    "type": "Menu",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+	{
+        "component": "Canvas",
+        "canvasType": 4,
+        "canvasName": "Instructions",
+        "UIElements":[
+            {
+               "prefab": "controls"     
+            }
+        ]
+        
+    }
+  ]
+  }

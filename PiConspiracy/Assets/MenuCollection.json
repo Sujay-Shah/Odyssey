@@ -1,0 +1,86 @@
+{
+  "MENUS": [
+
+    {
+      "prefab": "pauseMenu"
+    },
+    {
+      "prefab": "optionsMenu"
+    },
+    {
+      "prefab": "deathMenu"
+    },
+    {
+      "prefab": "confirmMenu"
+    },
+    {
+      "prefab": "PickUpText"
+    },
+    {
+      "prefab": "ScoreText"
+    },
+    {
+      "prefab": "UI_boostLogo"
+    },
+    {
+      "prefab": "UI_jumpLogo"
+    },
+    {
+      "prefab": "UI_dashLogo"
+    },
+    {
+      "prefab": "UI_dashCoolDownLogo"
+    },
+    {
+      "prefab": "UI_respawnLogo"
+    },
+    {
+      "prefab": "UI_PickupHUD1",
+      "position": {
+        "x": 1430.0,
+        "y": 850.0,
+        "z": 0.0
+      },
+      "hudID":1
+    },
+    {
+      "prefab": "UI_PickupHUD2",
+      "position": {
+        "x": 1500.0,
+        "y": 850.0,
+        "z": 0.0
+      },
+      "hudID":2
+    },
+    {
+      "prefab": "UI_PickupHUD3",
+      "position": {
+        "x": 1570.0,
+        "y": 850.0,
+        "z": 0.0
+      },
+      "hudID":3
+    },
+    {
+      "prefab": "UI_PickupHUD4",
+      "position": {
+        "x": 1640.0,
+        "y": 850.0,
+        "z": 0.0
+      },
+      "hudID":4
+    },
+    {
+      "prefab": "UI_PickupHUD5",
+      "position": {
+        "x": 1710.0,
+        "y": 850.0,
+        "z": 0.0
+      },
+      "hudID":5
+    },
+    {
+      "prefab": "SphereBall"
+    } 
+  ]
+}

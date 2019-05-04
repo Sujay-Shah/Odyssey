@@ -1,0 +1,3208 @@
+{
+    "GAMEOBJECTS":
+    [		        
+		{
+            "prefab": "DirectionalLight",
+            "position" : 
+            {
+                "x" :0.0,
+                "y" :0.0,
+                "z" :0.0
+            }
+        },		
+		{
+            "prefab": "plane_rigidbody_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -15000.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 7500.0
+            }
+        },
+
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 4500.0
+            }
+        },
+
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 1500.0
+            }
+        },
+
+
+
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -1500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -4500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -7500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -10500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -13500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -16500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -19500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -22500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -25500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -28500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -31500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -34500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -37500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -40500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -43500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -49500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -52500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -55500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -58500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -61500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -64500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -67500.0
+            }
+        },
+        {
+            "prefab": "wall_left_rigidbody_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 300.0,
+                "z" : -15000.0
+            }
+			
+        },
+		{
+            "prefab": "wall_right_rigidbody_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 300.0,
+                "z" : -15000.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : 7500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : 4500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : 1500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -1500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -4500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -7500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -10500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -13500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -16500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -19500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -22500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -25500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -28500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -31500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -34500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -37500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -40500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -43500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -46500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -49500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -52500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -55500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -58500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -61500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -64500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_left_mesh_R",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 5000.0,
+                "z" : -67500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : 7500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : 4500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : 1500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -1500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -4500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -7500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -10500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -13500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -16500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -19500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -22500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -25500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -28500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -31500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -34500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -37500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -40500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -43500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -46500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -49500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -52500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -55500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -58500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -61500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -64500.0
+            }
+			
+        },
+        {
+            "prefab": "wall_right_mesh_R",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 5000.0,
+                "z" : -67500.0
+            }
+			
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+		
+		
+		
+
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : -4000.0,
+                "z" : 0.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : -4000.0,
+                "z" : 0.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+
+        
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -8000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -8000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -12000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -12000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -16000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -16000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -20000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -20000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -22000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -22000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -24000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -24000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -26000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -26000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -28000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -28000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -30000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -30000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -32000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -32000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -34000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -34000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -36000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -36000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -38000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -38000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -40000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -40000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -42000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -42000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -44000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -44000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -46000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -46000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -48000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -48000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -50000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -50000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -52000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -52000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 1000.0,
+                "z" : -54000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 1000.0,
+                "z" : -54000.0
+            },
+			"scale" : 
+            {
+                "x" : 100.0,
+                "y" : 1000.0,
+                "z" : 100.0
+            }
+			
+        },
+		
+		
+        
+        
+
+
+
+
+
+		
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : -410.0,
+                "z" : -8500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 10
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : -410.0,
+                "z" : -8500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 10
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : -410.0,
+                "z" : -8500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 10
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -5500.0
+            },
+            "id" : 10
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : -410.0,
+                "z" : -12500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 11
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -9500.0
+            },
+            "id" : 11
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : -410.0,
+                "z" : -16500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 12
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : -410.0,
+                "z" : -16500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 12
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : -410.0,
+                "z" : -16500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 12
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -13500.0
+            },
+            "id" : 12
+        },
+
+
+
+
+
+
+
+
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -19000.0
+            }
+        },
+		{
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -19500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -20000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -20500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -19000.0
+            }
+        },
+		{
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -19500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -20000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -20500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 100.0,
+                "z" : -19000.0
+            }
+        },
+		{
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 100.0,
+                "z" : -19500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 100.0,
+                "z" : -20000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 100.0,
+                "z" : -20500.0
+            }
+        },
+		
+		
+		
+		
+		
+		
+		
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 750.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 250.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2250.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2750.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -1250.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -1750.0,
+                "y" : -410.0,
+                "z" : -24500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 13
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -21500.0
+            },
+            "id" : 13
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -750.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -250.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 1250.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 1750.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2250.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2750.0,
+                "y" : -410.0,
+                "z" : -28500.0
+            },
+            "scale": {
+                "x": 200.0,
+                "y": 400.0,
+                "z": 50.0
+            },
+			"id": 14
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -25500.0
+            },
+            "id" : 14
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : -410.0,
+                "z" : -32500.0
+            },
+            "scale": {
+                "x": 300.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+			"id": 15
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : -410.0,
+                "z" : -32500.0
+            },
+            "scale": {
+                "x": 300.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+			"id": 15
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : -410.0,
+                "z" : -32500.0
+            },
+            "scale": {
+                "x": 300.0,
+                "y": 200.0,
+                "z": 200.0
+            },
+			"id": 15
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -29500.0
+            },
+            "id" : 15
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : 400.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : -400.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+        {
+            "prefab": "pickUpJump",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 150.0,
+                "z" : -36000.0
+            }
+        },
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : -610.0,
+                "z" : -46500.0
+            },
+            "scale": {
+                "x": 900.0,
+                "y": 600.0,
+                "z": 200.0
+            },
+            "Speed": 20.0,
+			"id": 16
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : -610.0,
+                "z" : -46500.0
+            },
+            "scale": {
+                "x": 900.0,
+                "y": 600.0,
+                "z": 200.0
+            },
+            "Speed": 20.0,
+			"id": 16
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : -610.0,
+                "z" : -46500.0
+            },
+            "scale": {
+                "x": 900.0,
+                "y": 600.0,
+                "z": 200.0
+            },
+            "Speed": 20.0,
+			"id": 16
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -40500.0
+            },
+            "id" : 16
+        },
+
+
+
+
+
+
+
+
+       
+       
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -41000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 300.0,
+                "z" : -41500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 600.0,
+                "z" : -42000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 900.0,
+                "z" : -42500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1200.0,
+                "z" : -43000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1300.0,
+                "z" : -43500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1400.0,
+                "z" : -44000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1500.0,
+                "z" : -44500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1550.0,
+                "z" : -45000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -41000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 300.0,
+                "z" : -41500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 600.0,
+                "z" : -42000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 900.0,
+                "z" : -42500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1200.0,
+                "z" : -43000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1300.0,
+                "z" : -43500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1400.0,
+                "z" : -44000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1500.0,
+                "z" : -44500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1550.0,
+                "z" : -45000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 100.0,
+                "z" : -41000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 300.0,
+                "z" : -41500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 600.0,
+                "z" : -42000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 900.0,
+                "z" : -42500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1200.0,
+                "z" : -43000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1300.0,
+                "z" : -43500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1400.0,
+                "z" : -44000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1500.0,
+                "z" : -44500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1550.0,
+                "z" : -45000.0
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+
+
+
+
+
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+
+
+
+
+
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 1500.0,
+                "z" : -46500.0
+            }
+        },
+        {
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 1500.0,
+                "z" : -47000.0
+            }
+        },
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 500.0,
+                "y" : -1210.0,
+                "z" : -52500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+
+			"id": 17
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : -1210.0,
+                "z" : -52500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+
+            "id": 17,
+            "Speed": 100.0
+
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : -1210.0,
+                "z" : -52500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+
+            "id": 17,
+            "Speed": 100.0
+
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -48500.0
+            },
+            "id" : 17
+
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : -1210.0,
+                "z" : -54500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+            "id": 18,
+            "Speed": 100.0
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : -1210.0,
+                "z" : -54500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+            "id": 18,
+            "Speed": 100.0
+			
+        },
+        {
+            "prefab": "rise_cube_R",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : -1210.0,
+                "z" : -54500.0
+            },
+            "scale": {
+                "x": 500.0,
+                "y": 1200.0,
+                "z": 200.0
+            },
+            "id": 18,
+            "Speed": 100.0
+			
+        },
+        {
+            "prefab": "Trigger_rise_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 6000.0,
+                "z" : -49500.0
+            },
+            "id" : 18
+
+        },
+
+
+
+
+
+
+
+
+       
+		
+		
+		
+
+		
+		
+
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		{
+            "prefab": "ENDLEVEL_TRIGGER",
+            "position" : 
+            {
+                "x" :  15.0,
+                "y" :  10.0,
+                "z" : -60000.0
+            }
+        }
+		
+
+    ]
+}

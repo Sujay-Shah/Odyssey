@@ -1,0 +1,102 @@
+{
+  "GAMEOBJECTS": [
+    
+		{
+            "prefab": "DirectionalLight",
+            "position" : 
+            {
+                "x" :0.0,
+                "y" :0.0,
+                "z" :0.0
+            }
+        },
+		{
+            "prefab": "Birdscriptobject_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 1600.0,
+                "z" : -100.0
+            }
+        },
+		{
+            "prefab": "plane_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -4500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -30000.0
+            }
+        },
+
+    	{
+            "prefab": "walldividerleft_Zo",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerright_Zo",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerright_mesh_Zo",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerleft_mesh_Zo",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },	
+        
+        
+		{
+            "prefab": "STARTBUFFER_TRIGGER",
+            "position" : 
+            {
+                "x" :  15.0,
+                "y" :  10.0,
+                "z" : -1000.0
+            }
+        },
+        {
+            "prefab": "STARTLEVEL_TRIGGER",
+            "position" : 
+            {
+                "x" :  15.0,
+                "y" :  10.0,
+                "z" : -20000.0
+            }
+        }
+  ]
+}

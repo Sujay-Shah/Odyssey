@@ -1,0 +1,98 @@
+{
+  "type": "Player",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 10.0,
+        "z": 200.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 5.0
+      }
+    },
+
+    {
+      "component": "MeshComponent",
+      "type": 4,
+      "modelName": "car.fbx",
+      "materialName": "CarMat.json",
+      "isRenderable": false
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+      "Dynamic": null,
+      "CollisionLayer": 0,
+      "mass": 5.0,
+      "activeGravity": true,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+	  "colliderSize": {
+		    "x": 10.0,
+        "y": 7.0,
+        "z": 10.0
+	  },
+      "linearDamping": 0.9,
+      "angularDamping": 0.1
+    },
+    {
+      "component": "InputComponent",
+      "autoAcceleration": false
+    },
+    {
+      "component": "FractureComponent",
+      "Breaker": null
+    },
+    {
+      "component": "PlayerFollow",
+      "yOffset": 30.0,
+      "zOffset": 80.0,
+      "isCam": true
+    },
+    {
+      "component": "ParticleComponent",
+      "shaderName": "particleShader",
+
+      "particleLifeSpan": 1.0,
+      "particlesPerSecond" : 10000.0,
+      "particleCount": 10000,
+      "particleScale" : 10.0,
+      "lifeError": 0.3,
+      "scaleError": 0.7,
+      "velocityError": 0.8,
+      "directionDeviation": 0.5,
+      "gravityEffect": 0.01,
+      "speed": 0.1,
+
+      "haveDirection":false,
+     
+      "randomRotation":true,
+      "textureName": "particleStar.png",
+      "isGlobalSpace" : true
+    }
+
+  ]
+}

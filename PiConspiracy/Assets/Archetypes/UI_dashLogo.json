@@ -1,0 +1,38 @@
+{
+    "type": "HUD",
+
+    "COMPONENTS": [
+
+        {
+          "component": "Transform",
+          "position": {
+            "x": 50.0,
+            "y": 610.0,
+            "z": 0.0
+          },
+          "angle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 15.0,
+            "y": 15.0,
+            "z": 1.0
+          }
+        },
+        {
+          "component": "MeshComponent",
+          "type": 1,
+          "materialName": "dashMaterial.json"
+        },
+        {
+          "component": "PlayerFollow",
+          "xOffset": 30.0,
+          "yOffset": -30.0,
+          "zOffset": 5.0,
+          "isCam":false
+        }
+      ]
+      
+}

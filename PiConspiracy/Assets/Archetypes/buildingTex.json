@@ -1,0 +1,61 @@
+{
+    "type": "obstacle",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+      "CollisionLayer": 2,
+      "Static": null,
+      "mass": 1000.0,
+
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "linearDamping": 0.01,
+      "angularDamping": 0.01
+    },
+    {
+      "component": "MeshComponent",
+      "type": 4,
+      "shaderName": "Assets/Shaders/Light",
+      "MeshColor": {
+        "x": 0.5,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "modelName": "building.fbx"
+    }
+  ]
+  }

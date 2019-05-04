@@ -1,0 +1,24 @@
+{
+    "type": "UI",
+  
+    "COMPONENTS": 
+    [
+      {
+        "component": "TextComponent",
+        "StartText": "Video Settings",
+        "FontSize" : 5,
+        "Scale" : 1.0,
+        "Color" :
+        {
+          "x":1.0,
+          "y":0.0,
+          "z":0.0
+        },
+        "position" :
+        {
+          "x":0.0,
+          "y":0.0
+        }
+      }
+    ]
+  }

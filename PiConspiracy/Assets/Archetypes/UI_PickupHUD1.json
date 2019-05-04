@@ -1,0 +1,32 @@
+{
+    "type": "HUD",
+
+    "COMPONENTS": [
+
+        {
+          "component": "Transform",
+          "position": {
+            "x": 1050.0,
+            "y": 560.0,
+            "z": 0.0
+          },
+          "angle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "scale": {
+            "x": 70.0,
+            "y": 70.0,
+            "z": 1.0
+          }
+        },
+        {
+          "component": "MeshComponent",
+          "type": 1,
+          "materialName": "UI_pickupMaterial1.json",
+          "hudID":1
+        }
+      ]
+      
+}

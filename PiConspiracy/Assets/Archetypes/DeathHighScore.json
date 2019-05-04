@@ -1,0 +1,27 @@
+{
+  "type": "HUD",
+
+  "COMPONENTS": 
+  [
+    {
+      "component": "TextComponent",
+      "StartText": " High Score : ",
+      "FontSize" : 5,
+      "Scale" : 1.0,
+      "Color" :
+      {
+        "x":1.0,
+        "y":1.0,
+        "z":1.0
+      },
+      "position" :
+      {
+        "x":1100.0,
+        "y":670.0
+      }
+    },
+    {
+      "component": "UIController"
+    }
+  ]
+}

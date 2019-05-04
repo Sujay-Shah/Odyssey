@@ -1,0 +1,54 @@
+{
+    "type": "Trigger",
+  
+    "COMPONENTS": [
+  
+      {
+        "component": "Transform",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "angle": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 3000.0,
+          "y": 6000.0,
+          "z": 50.0
+        }
+      },
+      {
+        "component": "RigidBodyComponent",
+        "Box": null,
+        "Dynamic": null,
+        "mass": 0.00001,
+        "activeGravity": false,
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "acceleration": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "linearDamping": 0.25,
+        "angularDamping": 0.8
+      },
+
+      {
+        "component": "TriggerComponent",
+        "id": -1
+      }
+    ]
+  }

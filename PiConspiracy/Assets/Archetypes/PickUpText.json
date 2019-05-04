@@ -1,0 +1,24 @@
+{
+  "type": "HUD",
+
+  "COMPONENTS": 
+  [
+    {
+      "component": "TextComponent",
+      "StartText": " MULTIPLIER X ",
+      "FontSize" : 5,
+      "Scale" : 1.0,
+      "Color" :
+      {
+        "x":1.0,
+        "y":1.0,
+        "z":1.0
+      },
+      "position":
+      {
+        "x":1100.0,
+        "y":600.0
+      }
+    }
+  ]
+}

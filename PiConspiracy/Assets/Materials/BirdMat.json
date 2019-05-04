@@ -1,0 +1,15 @@
+{	
+		"color": 
+		{
+       	"x": 1.0,
+       	"y": 1.0,
+       	"z": 1.0
+   		 },
+
+	"albedo": "white.jpg",
+	"shader": "Assets/Shaders/AnimatedModel",
+	"isReceiveLight": true,
+	"isInstanced": false,
+	"InstanceCount": 0
+}
+  

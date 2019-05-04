@@ -1,0 +1,36 @@
+{
+    "type": "Obstacle",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 30000.0,
+        "y": 600.0,
+        "z": 1.0
+      }
+    },
+	{
+      "component": "RigidBodyComponent",
+      "Plane": null,
+	  "CollisionLayer": 1,
+      "direction": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "offset": -3000.0 
+    }
+  ]
+  }

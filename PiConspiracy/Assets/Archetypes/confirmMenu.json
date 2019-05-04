@@ -1,0 +1,56 @@
+{
+    "type": "Menu",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+	{
+        "component": "Canvas",
+        "canvasType": 3,
+        "canvasName": "Confirm",
+        "UIElements":[
+            {
+                "prefab": "yesButton",
+                "position":
+                {
+                    "x":870,
+                    "y":430,
+                    "z":0
+                }
+            },
+            {
+              "prefab": "noButton",
+              "position":
+              {
+                  "x":870,
+                  "y":530,
+                  "z":0
+              }
+              
+            },
+            {
+              "prefab": "UI_confirmText"
+              
+            }
+
+        ]
+        
+    }
+  ]
+  }

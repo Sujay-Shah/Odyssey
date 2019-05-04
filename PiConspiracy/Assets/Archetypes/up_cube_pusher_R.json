@@ -1,0 +1,55 @@
+{
+    "type": "Obstacle",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 50.0,
+        "y": 50.0,
+        "z": 50.0
+      }
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+    "Dynamic": null,
+    "activeGravity": false,
+	    "CollisionLayer": 2,
+      "mass": 100000.0,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": 0.0,
+        "y": 100.0,
+        "z": 0.0
+      },
+      "linearDamping": 0.25,
+      "angularDamping": 0.8
+    },
+  {
+    "component": "TriggerComponent",
+    "id": -1
+  }
+  
+  ]
+  }

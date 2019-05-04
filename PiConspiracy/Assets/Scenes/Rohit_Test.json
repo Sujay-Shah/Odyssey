@@ -1,0 +1,41 @@
+{
+  "GAMEOBJECTS": [
+        {
+            "prefab": "pauseMenu",
+            "position" :
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            }
+        },
+        {
+            "prefab": "DirectionalLight",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" :-500.0
+            }
+        },
+		{
+            "prefab": "plane_Varun",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 0.0
+            }
+        },
+		{
+         "prefab": "SlowMoQuad",
+         "position" : 
+            {
+                "x" : 700.0,
+                "y" : 540.0,
+                "z" : 0.0
+            }
+        }
+
+  ]
+}

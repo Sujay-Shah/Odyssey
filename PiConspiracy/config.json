@@ -1,0 +1,25 @@
+{
+	"GAME_SETTINGS": {
+		"assetDir": "Assets/",
+		"scenesDir": "Scenes/",
+		"archetypesDir": "Archetypes/",
+		"sfxDir": "SFX/",
+		"shadersDir": "Shaders/",
+		"texturesDir": "Textures/",
+		"modelsDir": "Model/",
+		"highScoreDir": "highScore.txt",
+    "materialsDir": "Materials/",
+    "inputType": 1,
+
+    "presentation": true,
+
+    "autoAcceleration": true,
+	"startScene" :  2,	
+	"fovAngle": 90.0,
+    "updateUI": true,
+    "enableJustMouseForUI": false,
+    "withPlayer": true,
+    "isMute": false,
+    "enableWindowEvents": true
+	}
+}

@@ -1,0 +1,90 @@
+{
+    "type": "Menu",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+	{
+        "component": "Canvas",
+        "canvasType": 6,
+        "canvasName": "Options",
+        "UIElements":[
+           
+            {
+              "prefab": "UI_OptionsHeaderText"
+            },
+            {
+              "prefab": "UI_videoText"
+            },
+            {
+                "prefab": "CB_fullScreen",
+                "position":
+                {
+                    "x":820,
+                    "y":250,
+                    "z":0
+                }
+            },
+            {
+                "prefab": "CB_controller",
+                "position":
+                {
+                    "x":820,
+                    "y":350,
+                    "z":0
+                }
+            },
+            {
+                "prefab": "UI_audioText"
+            },
+            {
+                "prefab": "CB_muteMusic",
+                "position":
+                {
+                    "x":820,
+                    "y":550,
+                    "z":0
+                }
+            },
+            {
+                "prefab": "CB_muteSFX",
+                "position":
+                {
+                    "x":820,
+                    "y":650,
+                    "z":0
+                }
+            },
+            {
+                "prefab": "Btn_back2pauseFrmOption",
+                "position":
+                {
+                    "x":910,
+                    "y":780,
+                    "z":0
+                }
+            },
+            {
+                "prefab":"UI_overlay"
+            }
+        ]
+        
+    }
+  ]
+  }

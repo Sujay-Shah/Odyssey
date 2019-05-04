@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="PiEnginePreCompiled.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameRateController.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ImguiManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMananger.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="DropComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="FractureComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="InputComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="LightComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_DropBallComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_RotateComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_SideMovementComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="RigidBodyComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="RiseComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="TextComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="TriggerComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="TumblingCube.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseCollider.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxCollider.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="contacts.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="physics_math.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneCollider.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>src\PiEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonReader.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomNumberGenerator.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash.cpp">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Canvas.cpp">
+      <Filter>src\PiEngine\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="LightManager.cpp">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="GBuffer.cpp">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometryPass.cpp">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderable.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderableContainer.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyBox.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugRenderer.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameBuffer.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="ImportMesh.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeGenerator.cpp">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="LogManager.cpp">
+      <Filter>src\PiEngine\Managers\LogManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectoryObject.cpp">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="FileParser.cpp">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectConfig.cpp">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureData.cpp">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3x3.cpp">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix4x4.cpp">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="SphereCollider.cpp">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFollow.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickups.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>src\PiEngine\Managers\EventManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectManager.cpp">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectFactory.cpp">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>src\PiEngine\Managers\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRenderer.cpp">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="AIComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="UIController.cpp">
+      <Filter>src\PiEngine\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotations.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeFollowComponent.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleComponent.cpp">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleRenderer.cpp">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleTexture.cpp">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBox.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="ScaleUI.cpp">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PiEnginePreCompiled.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameRateController.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="ImguiManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="StatsManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="DropComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="FractureComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="InputComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="LightComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_DropBallComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_RotateComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_SideMovementComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="RigidBodyComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="RiseComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TextComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TriggerComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TumblingCube.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseCollider.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxCollider.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="contacts.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="physics_math.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneCollider.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Script.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>src\PiEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonReader.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomNumberGenerator.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalManagers.h">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Hash.h">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="NonCopyable.h">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Type.h">
+      <Filter>src\PiEngine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Canvas.h">
+      <Filter>src\PiEngine\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CanvasType.h">
+      <Filter>src\PiEngine\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="LightManager.h">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="GBuffer.h">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryPass.h">
+      <Filter>src\PiEngine\Graphics\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderable.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderableContainer.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyBox.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugRenderer.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameBuffer.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="ImportMesh.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderManager.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeGenerator.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>src\PiEngine\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="LogManager.h">
+      <Filter>src\PiEngine\Managers\LogManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectoryObject.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="dirent.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="FileParser.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectConfig.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureData.h">
+      <Filter>src\PiEngine\Managers\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="MathDefs.h">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3x3.h">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4x4.h">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>src\PiEngine\Physics\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="SphereCollider.h">
+      <Filter>src\PiEngine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFollow.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Tags.h">
+      <Filter>src\PiEngine\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickups.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>src\PiEngine\Managers\EventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>src\PiEngine\Managers\EventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectManager.h">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectFactory.h">
+      <Filter>src\PiEngine\Managers\GameObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="InputEnums.h">
+      <Filter>src\PiEngine\Managers\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>src\PiEngine\Managers\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextRenderer.h">
+      <Filter>src\PiEngine\Graphics\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="AIComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="UIController.h">
+      <Filter>src\PiEngine\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotations.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeFollowComponent.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleComponent.h">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleRenderer.h">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleTexture.h">
+      <Filter>src\PiEngine\Graphics\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBox.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ScaleUI.h">
+      <Filter>src\PiEngine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Shaders\Basic.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\Cube.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\Light.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\ShadowMap.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\SkyBox.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\Sphere.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\TextShader.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\Basic.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\Cube.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\DebugQuad.FS">
+      <Filter>src\PiEngine\Graphics\GLSL\FragmentShder</Filter>
+    </None>
+    <None Include="Assets\Shaders\DebugQuad.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\Light.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\ShadowMap.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\SkyBox.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\Sphere.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+    <None Include="Assets\Shaders\TextShader.VS">
+      <Filter>src\PiEngine\Graphics\GLSL\VertexShader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{b87c618e-3d49-4819-95ce-09d0962a156c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{496c5182-a286-4e55-97de-32417c51ced1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine">
+      <UniqueIdentifier>{5b8db6f9-e145-4e7b-a709-f813ee345d2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Components">
+      <UniqueIdentifier>{65431e07-d86f-4785-a96f-6d37ed09cefa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Physics">
+      <UniqueIdentifier>{99ef5b01-7708-47c3-bcd8-576b502c137a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Core">
+      <UniqueIdentifier>{c481aacd-616a-455c-9ec6-955d736f6625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics">
+      <UniqueIdentifier>{ccddba96-439c-4651-baaf-2358fcc7dd59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\UI">
+      <UniqueIdentifier>{12f38e9d-f53e-4468-9d27-f8a410efe422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{576f9642-24b3-48f9-99dd-fc0c05dfb031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\GLSL">
+      <UniqueIdentifier>{0cf84733-2b5a-4314-86e5-552e1a9e87bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\GLSL\FragmentShder">
+      <UniqueIdentifier>{1f3f2d41-f25d-4602-9912-81bd687ad0a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\GLSL\VertexShader">
+      <UniqueIdentifier>{2217008d-a83c-4c44-812b-afaa50402bb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\GLSL\GeometryShader">
+      <UniqueIdentifier>{0c37db98-8e8b-4063-b3fd-ea6e493004a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\Lighting">
+      <UniqueIdentifier>{bf1d6f30-5020-4349-ba1b-05c621a3bc54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\Renderable">
+      <UniqueIdentifier>{49771ce7-327c-46b5-809c-ac26ede0153d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Physics\Math">
+      <UniqueIdentifier>{93484299-8927-4a24-9b2d-796ed16ddc40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers">
+      <UniqueIdentifier>{92b06c0c-cab5-4be1-9183-19bc31ecd708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers\LogManager">
+      <UniqueIdentifier>{fd17e1f2-8b92-40d7-ab39-f744480b7f17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers\ResourceManager">
+      <UniqueIdentifier>{5c4c83c1-b0c3-4dff-b89b-ca284b0a2b3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers\EventManager">
+      <UniqueIdentifier>{9b46ee9e-e77c-4bac-aa26-6c1bfd142331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers\GameObjectManager">
+      <UniqueIdentifier>{2a3065cc-1e82-4855-a61a-2a9aaf8b8979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Managers\InputManager">
+      <UniqueIdentifier>{155ff15d-9e32-47ef-a782-72e3a76002c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\GLSL\ComputeShader">
+      <UniqueIdentifier>{27d238bc-6b9e-46a9-9225-097fb3923606}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\PiEngine\Graphics\Particle">
+      <UniqueIdentifier>{fa3c9681-a7ed-4981-b20d-c8497be25c13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PiConspiracy.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\x64\Release\Odyssey.ico" />
+  </ItemGroup>
+</Project>

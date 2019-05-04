@@ -1,0 +1,18 @@
+{	
+		"color": 
+		{
+       	"x": 1.0,
+       	"y": 1.0,
+       	"z": 1.0
+   		 },
+
+	"albedo": "white.jpg",
+	"left_tutorial": "quick_dash_right.png",
+	"right_tutorial":"quick_dash_left.png",
+	"jump_tutorial" : "Jump_texture.png",
+	"boost_tutorial" : "Boost_texture.png",
+	"extralife_tutorial":"Shield_texture.png",
+	"pickups_tutorial": "multiplier_crystal.png",
+	"shader": "Assets/Shaders/SlowMoTex"
+}
+  

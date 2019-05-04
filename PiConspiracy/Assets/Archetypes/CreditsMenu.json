@@ -1,0 +1,50 @@
+{
+  "type": "Menu",
+
+"COMPONENTS": [
+  {
+    "component": "Transform",
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "angle": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 2.0,
+      "z": 2.0
+    }
+  },
+{
+      "component": "Canvas",
+      "canvasType": 5,
+      "canvasName": "Credits",
+      "UIElements":[
+          {
+              "prefab": "UI_credits",
+              "position":
+              {
+                  "x":960,
+                  "y":540,
+                  "z":0
+              }
+          },
+          {
+            "prefab": "Btn_back2mainFrmCreds",
+            "position":
+            {
+                "x":1650,
+                "y":950,
+                "z":0
+            }
+        }
+      ]
+      
+  }
+]
+}

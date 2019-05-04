@@ -1,0 +1,47 @@
+{
+  "SCENES": [
+
+    { "sceneName": "logoScene" },
+    { "sceneName": "menuScene" },
+    { "sceneName": "BufferRegion1"},
+	  { "sceneName": "Region2Zone1_City"},
+	  { "sceneName": "Region2Zone2_Move"},
+    { "sceneName": "Region2Zone3_Up"},
+    { "sceneName": "Tutorial_Zone" },
+    { "sceneName": "Zone_2" },
+    { "sceneName": "Zone_3" },
+    { "sceneName": "Zone_4" },
+    { "sceneName": "Zone_5" },
+    { "sceneName": "Zone_6" },
+    { "sceneName": "Zone_7" },
+    { "sceneName": "Zone_8" },
+    { "sceneName": "Zone_9" },
+    { "sceneName": "NUMSCENE" },
+    { "sceneName": "FeatureZone" },
+    { "sceneName": "storyScene" },
+    { "sceneName": "ControllerRecScene" },
+    
+    
+    
+
+    
+    
+	
+	  { "sceneName": "Region1Zone1_Base" },
+    { "sceneName": "Region1Zone2_Canyons" },
+    { "sceneName": "Region1Zone3" },
+	
+		{ "sceneName": "Rohit_Test" },
+  
+    
+	
+    { "sceneName": "eddzLeveltest" },
+ 
+    { "sceneName": "bugTest" },
+	
+    { "sceneName": "FogTest" },
+
+  { "sceneName": "BaseZone" }
+	
+  ]
+   }

@@ -1,0 +1,3921 @@
+{
+    "GAMEOBJECTS":
+    [
+	
+        
+		{
+            "prefab": "plane_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -4500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 7500.0
+            }
+        },
+
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 4500.0
+            }
+        },
+
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 1500.0
+            }
+        },
+
+
+
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -1500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -4500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -7500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -10500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -13500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -16500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -19500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -22500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -25500.0
+            }
+        },
+		{
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -28500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -31500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -34500.0
+            }
+        },
+        {
+            "prefab": "plane_mesh_R",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : -37500.0
+            }
+        },
+		
+		
+		
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2800.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 20.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1200.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -800.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -400.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 400.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 800.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1200.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2800.0,
+                "y" : 100.0,
+                "z" : -500.0
+            }
+        },
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -2600.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -2200.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -1800.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -1400.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -600.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 200.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 1400.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 1800.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 2200.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": -45.0,
+				"z": 0.0
+			}
+			
+        },
+		{
+            "prefab": "bigwall_Zo",
+            "position" : 
+            {
+                "x" : 2600.0,
+                "y" : 100.0,
+                "z" : -2000.0
+            },
+			"angle": {
+				"x": 0.0,
+				"y": 45.0,
+				"z": 0.0
+			}
+			
+        },
+		
+		
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 400.0,
+                "z" : -2700.0
+            },
+			"scale" : 
+            {
+                "x" : 300.0,
+                "y" : 300.0,
+                "z" : 300.0
+            },
+			"angle" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 45.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 400.0,
+                "z" : -2700.0
+            },
+			"scale" : 
+            {
+                "x" : 300.0,
+                "y" : 300.0,
+                "z" : 300.0
+            },
+			"angle" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 45.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 400.0,
+                "z" : -2700.0
+            },
+			"scale" : 
+            {
+                "x" : 300.0,
+                "y" : 300.0,
+                "z" : 300.0
+            },
+			"angle" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 45.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 400.0,
+                "z" : -2700.0
+            },
+			"scale" : 
+            {
+                "x" : 300.0,
+                "y" : 300.0,
+                "z" : 300.0
+            },
+			"angle" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 45.0
+            }
+        },
+		{
+            "prefab": "shortBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 400.0,
+                "z" : -2700.0
+            },
+			"scale" : 
+            {
+                "x" : 300.0,
+                "y" : 300.0,
+                "z" : 300.0
+            },
+			"angle" : 
+            {
+                "x" : 0.0,
+                "y" : 0.0,
+                "z" : 45.0
+            }
+        },
+		
+		
+		
+		
+		
+		
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1000.0,
+                "z" : -4000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 300.0,
+                "y" : 600.0,
+                "z" : -4700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 1000.0,
+                "z" : -5100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+				{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 100.0,
+                "y" : 600.0,
+                "z" : -5600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 600.0,
+                "z" : -6500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 200.0,
+                "y" : 200.0,
+                "z" : -7100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -7100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 600.0,
+                "z" : -4200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -5100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1100.0,
+                "y" : 1000.0,
+                "z" : -5300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 600.0,
+                "z" : -6600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 200.0,
+                "z" : -4600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -800.0,
+                "y" : 200.0,
+                "z" : -5400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 600.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1100.0,
+                "y" : 200.0,
+                "z" : -6500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -600.0,
+                "y" : 1000.0,
+                "z" : -7400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -900.0,
+                "y" : 200.0,
+                "z" : -7000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 700.0,
+                "y" : 200.0,
+                "z" : -7300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 600.0,
+                "z" : -4000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -4400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1700.0,
+                "y" : 200.0,
+                "z" : -4900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 1000.0,
+                "z" : -5500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -5900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1900.0,
+                "y" : 1000.0,
+                "z" : -6400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 200.0,
+                "z" : -6800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1800.0,
+                "y" : 600.0,
+                "z" : -7200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 200.0,
+                "z" : -4400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 1000.0,
+                "z" : -5300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 400.0,
+                "z" : -6700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2600.0,
+                "y" : 200.0,
+                "z" : -7300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2700.0,
+                "y" : 600.0,
+                "z" : -4300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -5000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2900.0,
+                "y" : 1000.0,
+                "z" : -6400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -4000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -4400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1700.0,
+                "y" : 600.0,
+                "z" : -4900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -5500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -5900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1900.0,
+                "y" : 1000.0,
+                "z" : -6400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 400.0,
+                "z" : -6800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1800.0,
+                "y" : 200.0,
+                "z" : -7200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -4400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 200.0,
+                "z" : -5300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -6000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 1000.0,
+                "z" : -6700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2600.0,
+                "y" : 200.0,
+                "z" : -7300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2700.0,
+                "y" : 200.0,
+                "z" : -4300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 600.0,
+                "z" : -5000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2900.0,
+                "y" : 200.0,
+                "z" : -6400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		
+		
+
+		
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 1000.0,
+                "z" : -8000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 300.0,
+                "y" : 400.0,
+                "z" : -8700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -9100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+				{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 100.0,
+                "y" : 600.0,
+                "z" : -9600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 200.0,
+                "z" : -10500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 200.0,
+                "y" : 200.0,
+                "z" : -11100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -11100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 600.0,
+                "z" : -8200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -9100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1100.0,
+                "y" : 200.0,
+                "z" : -9300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 1000.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 200.0,
+                "z" : -10600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 200.0,
+                "z" : -8600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -800.0,
+                "y" : 200.0,
+                "z" : -9400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 600.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1100.0,
+                "y" : 200.0,
+                "z" : -10500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -600.0,
+                "y" : 200.0,
+                "z" : -11400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -900.0,
+                "y" : 200.0,
+                "z" : -11000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 700.0,
+                "y" : 1000.0,
+                "z" : -11300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 200.0,
+                "z" : -8000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -8400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1700.0,
+                "y" : 600.0,
+                "z" : -8900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 200.0,
+                "z" : -9500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -9900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1900.0,
+                "y" : 200.0,
+                "z" : -10400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 600.0,
+                "z" : -10800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1800.0,
+                "y" : 200.0,
+                "z" : -11200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 200.0,
+                "z" : -8400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 200.0,
+                "z" : -9300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 1000.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 400.0,
+                "z" : -10700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2600.0,
+                "y" : 200.0,
+                "z" : -11300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2700.0,
+                "y" : 600.0,
+                "z" : -8300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -9000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2900.0,
+                "y" : 400.0,
+                "z" : -10400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -8000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -8400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1700.0,
+                "y" : 400.0,
+                "z" : -8900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 600.0,
+                "z" : -9500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -9900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1900.0,
+                "y" : 200.0,
+                "z" : -10400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 400.0,
+                "z" : -10800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1800.0,
+                "y" : 200.0,
+                "z" : -11200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -8400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 1000.0,
+                "z" : -9300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -10000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -10700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2600.0,
+                "y" : 200.0,
+                "z" : -11300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2700.0,
+                "y" : 200.0,
+                "z" : -8300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 600.0,
+                "z" : -9000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2900.0,
+                "y" : 200.0,
+                "z" : -10400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -12000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 100.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 300.0,
+                "y" : 400.0,
+                "z" : -12700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -13100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+				{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 100.0,
+                "y" : 200.0,
+                "z" : -13600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 200.0,
+                "z" : -14500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 200.0,
+                "y" : 1000.0,
+                "z" : -15100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -15100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 200.0,
+                "z" : -12200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -13100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1100.0,
+                "y" : 200.0,
+                "z" : -13300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 600.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 200.0,
+                "z" : -14600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 200.0,
+                "z" : -12600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -800.0,
+                "y" : 200.0,
+                "z" : -13400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 1000.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 1000.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1100.0,
+                "y" : 200.0,
+                "z" : -14500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -600.0,
+                "y" : 200.0,
+                "z" : -15400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -900.0,
+                "y" : 200.0,
+                "z" : -15000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 700.0,
+                "y" : 200.0,
+                "z" : -15300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 200.0,
+                "z" : -12000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -12400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1700.0,
+                "y" : 200.0,
+                "z" : -12900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 600.0,
+                "z" : -13500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 600.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -13900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1900.0,
+                "y" : 200.0,
+                "z" : -14400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 200.0,
+                "z" : -14800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1800.0,
+                "y" : 200.0,
+                "z" : -15200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 200.0,
+                "z" : -12400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 200.0,
+                "z" : -13300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 400.0,
+                "z" : -14700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2600.0,
+                "y" : 200.0,
+                "z" : -15300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2700.0,
+                "y" : 200.0,
+                "z" : -12300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -13000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2900.0,
+                "y" : 400.0,
+                "z" : -14400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -12000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -12400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1700.0,
+                "y" : 400.0,
+                "z" : -12900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -13500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -13900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1900.0,
+                "y" : 200.0,
+                "z" : -14400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 400.0,
+                "z" : -14800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1800.0,
+                "y" : 200.0,
+                "z" : -15200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -12400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 200.0,
+                "z" : -13300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -14000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -14700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2600.0,
+                "y" : 200.0,
+                "z" : -15300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2700.0,
+                "y" : 200.0,
+                "z" : -12300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -13000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2900.0,
+                "y" : 200.0,
+                "z" : -14400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -16000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 100.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 300.0,
+                "y" : 400.0,
+                "z" : -16700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -17100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+				{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 100.0,
+                "y" : 200.0,
+                "z" : -17600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 200.0,
+                "z" : -18500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 200.0,
+                "y" : 200.0,
+                "z" : -19100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -200.0,
+                "y" : 200.0,
+                "z" : -19100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 200.0,
+                "z" : -16200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -17100.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1100.0,
+                "y" : 200.0,
+                "z" : -17300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 600.0,
+                "y" : 200.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1000.0,
+                "y" : 200.0,
+                "z" : -18600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1000.0,
+                "y" : 200.0,
+                "z" : -16600.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -800.0,
+                "y" : 200.0,
+                "z" : -17400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -500.0,
+                "y" : 200.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1100.0,
+                "y" : 200.0,
+                "z" : -18500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -600.0,
+                "y" : 200.0,
+                "z" : -19400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -900.0,
+                "y" : 200.0,
+                "z" : -19000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 700.0,
+                "y" : 200.0,
+                "z" : -19300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 200.0,
+                "z" : -16000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -16400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1700.0,
+                "y" : 200.0,
+                "z" : -16900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2000.0,
+                "y" : 200.0,
+                "z" : -17500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1500.0,
+                "y" : 200.0,
+                "z" : -17900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1900.0,
+                "y" : 200.0,
+                "z" : -18400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1600.0,
+                "y" : 200.0,
+                "z" : -18800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 1800.0,
+                "y" : 200.0,
+                "z" : -19200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 200.0,
+                "z" : -16400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2400.0,
+                "y" : 200.0,
+                "z" : -17300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2300.0,
+                "y" : 400.0,
+                "z" : -18700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2600.0,
+                "y" : 200.0,
+                "z" : -19300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2700.0,
+                "y" : 200.0,
+                "z" : -16300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2500.0,
+                "y" : 200.0,
+                "z" : -17000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : 2900.0,
+                "y" : 400.0,
+                "z" : -18400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -16000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -16400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1700.0,
+                "y" : 400.0,
+                "z" : -16900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2000.0,
+                "y" : 200.0,
+                "z" : -17500.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1500.0,
+                "y" : 200.0,
+                "z" : -17900.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1900.0,
+                "y" : 200.0,
+                "z" : -18400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1600.0,
+                "y" : 400.0,
+                "z" : -18800.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 400.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -1800.0,
+                "y" : 200.0,
+                "z" : -19200.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -16400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2400.0,
+                "y" : 200.0,
+                "z" : -17300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -18000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2300.0,
+                "y" : 200.0,
+                "z" : -18700.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2600.0,
+                "y" : 200.0,
+                "z" : -19300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2700.0,
+                "y" : 200.0,
+                "z" : -16300.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2500.0,
+                "y" : 200.0,
+                "z" : -17000.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		{
+            "prefab": "tallBuilding_Zo",
+            "position" : 
+            {
+                "x" : -2900.0,
+                "y" : 200.0,
+                "z" : -18400.0
+            },
+			"scale" : 
+            {
+                "x" : 50.0,
+                "y" : 200.0,
+                "z" : 50.0
+            }
+        },
+		
+	
+	
+	
+		
+		
+		
+		
+		
+		{
+            "prefab": "pickUp_Zo",
+            "position" : 
+            {
+                "x" : 0.0,
+                "y" : 100.0,
+                "z" : -1500.0
+            }
+        },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": -600.0,
+          "y": 100.0,
+          "z": -3500.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": 600.0,
+          "y": 100.0,
+          "z": -3500.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": 0.0,
+          "y": 100.0,
+          "z": -5200.0
+        }
+      },
+     
+     
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": -500.0,
+          "y": 100.0,
+          "z": -12000.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": -370.0,
+          "y": 100.0,
+          "z": -15000.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": 370.0,
+          "y": 100.0,
+          "z": -15000.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": 0.0,
+          "y": 100.0,
+          "z": -18000.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": -800.0,
+          "y": 100.0,
+          "z": -18000.0
+        }
+      },
+      {
+        "prefab": "pickUp_Zo",
+        "position": {
+          "x": 800.0,
+          "y": 100.0,
+          "z": -18000.0
+        }
+      },
+
+
+
+
+      {
+        "prefab": "pickUpJump",
+        "position": {
+          "x": 900.0,
+          "y": 150.0,
+          "z": -5200.0
+        }
+      },
+      {
+        "prefab": "pickUpJump",
+        "position": {
+          "x": -900.0,
+          "y": 150.0,
+          "z": -5200.0
+        }
+      },
+
+
+
+      {
+        "prefab": "pickUpSlow",
+        "position": {
+          "x": 800.0,
+          "y": 150.0,
+          "z": -1300.0
+        }
+      },
+      {
+        "prefab": "pickUpSlow",
+        "position": {
+          "x": -800.0,
+          "y": 150.0,
+          "z": -1300.0
+        }
+      },
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+            "prefab": "walldividerleft_Zo",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 50.0,
+                "z" : -4500.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerright_Zo",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 50.0,
+                "z" : -4500.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerright_mesh_Zo",
+            "position" : 
+            {
+                "x" : 3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },
+		{
+            "prefab": "walldividerleft_mesh_Zo",
+            "position" : 
+            {
+                "x" : -3000.0,
+                "y" : 300.0,
+                "z" : -10000.0
+            }
+			
+        },
+		
+		{
+            "prefab": "ENDLEVEL_TRIGGER",
+            "position" : 
+            {
+                "x" :  15.0,
+                "y" :  10.0,
+                "z" : -25000.0
+            }
+        },
+		
+		{
+            "prefab": "DirectionalLight",
+            "position" : 
+            {
+                "x" :0.0,
+                "y" :0.0,
+                "z" :0.0
+            }
+        }
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+    ]
+}

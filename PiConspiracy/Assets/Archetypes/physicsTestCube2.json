@@ -1,0 +1,52 @@
+{
+  "type": "Object",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 55.0,
+        "y": 200.0,
+        "z": -500.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 5.0,
+        "y": 5.0,
+        "z": 50.0
+      }
+    },
+
+    {
+      "component": "MeshComponent",
+      "type": 2,
+	  "materialName": "TallBuilding_Zo_Mat.json"
+    },
+    {
+      "component": "RigidBodyComponent",
+      "Box": null,
+	  "Dynamic": null,
+	  "CollisionLayer": 1,
+      "activeGravity": false,
+      "mass": 20.0,
+      "velocity": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "acceleration": {
+        "x": -250.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "linearDamping": 0.95,
+      "angularDamping": 0.8
+
+    }
+  ]
+}

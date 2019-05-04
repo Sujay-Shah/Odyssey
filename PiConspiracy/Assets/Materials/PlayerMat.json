@@ -1,0 +1,28 @@
+{	
+		"color": 
+		{
+       	"x": 1.0,
+       	"y": 1.0,
+       	"z": 0.0
+   	}, 
+		"DiffuseColor": 
+		{
+       	"x": 1.0,
+       	"y": 1.0,
+       	"z": 0.0
+   	},
+		"SpecularColor": 
+		{
+       	"x"			: 1.0,
+       	"y"			: 1.0,
+       	"z"			: 0.0,
+		"Shininess"	: 195
+   	},
+	"albedo": "carUV.png",
+	"shader": "Assets/Shaders/Light",
+	"isReceiveLight": true,
+	"isInstanced": false,
+	"InstanceCount": 0,
+	"isReflective": false
+}
+  

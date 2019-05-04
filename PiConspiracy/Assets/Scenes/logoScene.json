@@ -1,0 +1,28 @@
+{
+    "GAMEOBJECTS": [
+      {
+          "prefab": "digipenLogo",
+          "position" : 
+        {
+            "x" :960.0,
+            "y" :540.0,
+            "z" :-170.0
+        },
+        "scale":
+        {
+            "x": 1920,
+            "y": 1080,
+            "z": 0.0
+        }
+      },
+      {
+        "prefab": "DirectionalLight",
+        "position" : 
+        {
+            "x" :0.0,
+            "y" :0.0,
+            "z" :-400.0
+        }
+    }
+    ]
+}

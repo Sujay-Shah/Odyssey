@@ -1,0 +1,31 @@
+{
+    "type": "none",
+
+  "COMPONENTS": [
+
+    {
+      "component": "Transform",
+      "position": {
+        "x": 800.0,
+        "y": 700.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 10.0,
+        "y": 10.0,
+        "z": 10.0
+      }
+    },
+    	
+    {
+		"component":"MeshComponent",
+		"type": 3,
+		"materialName" : "BloomMaterial.json"
+	}
+  ]
+  }

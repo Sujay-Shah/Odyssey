@@ -1,0 +1,83 @@
+{
+    "type": "Menu",
+
+  "COMPONENTS": [
+    {
+      "component": "Transform",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "angle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0
+      }
+    },
+	{
+        "component": "Canvas",
+        "canvasType": 1,
+        "canvasName": "Pause",
+        "UIElements":[
+            {
+              "prefab": "UI_PauseHeaderText"
+            },
+            {
+                "prefab": "resumeButton",
+                "position":
+                {
+                    "x":870,
+                    "y":230,
+                    "z":0
+                }
+            },
+            {
+              "prefab": "restartButton",
+              "position":
+              {
+                  "x":870,
+                  "y":330,
+                  "z":0
+              }
+            },
+            {
+              "prefab": "Btn_Options",
+              "position":
+              {
+                  "x":870,
+                  "y":430,
+                  "z":0
+              }
+            },
+            {
+              "prefab": "Btn_back2mainFrmGame",
+              "position":
+              {
+                  "x":870,
+                  "y":530,
+                  "z":0
+              }
+            },
+            {
+              "prefab": "quitButton",
+              "position":
+              {
+                  "x":870,
+                  "y":630,
+                  "z":0
+              }
+            },
+            {
+                "prefab":"UI_overlay"
+            }
+        ]
+        
+    }
+  ]
+  }

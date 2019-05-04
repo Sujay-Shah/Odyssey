@@ -1,0 +1,21 @@
+	{	
+		"color": 
+		{
+       	"x": 1.0,
+       	"y": 0.0,
+       	"z": 0.0
+   	},
+	"BrightColor":
+	{
+		"x": 10.0,
+       	"y": 0.0,
+       	"z": 0.0
+	},
+	"albedo": "white.jpg",
+	"shader": "Assets/Shaders/Light",
+	"isReceiveLight": true,
+	"isInstanced": false,
+	"InstanceCount": 0,
+	"isReflective": false
+}
+  
