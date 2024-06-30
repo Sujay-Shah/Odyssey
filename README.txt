@@ -2,8 +2,6 @@ Pi-Conspiracy’s game is an endless runner game built on custom 3D engine built
 powered with quick dashes, maneuvering in an obstacle and intelligent enemy filled world, the
 player has to survive as long as they can.
 
-<video width="600" controls>
-  <source src="Odyssey_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Sujay-Shah/Odyssey/assets/16970214/aa40eec6-5e62-49c5-bf91-5e71a43691bf
+
 
